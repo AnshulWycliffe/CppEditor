@@ -1,6 +1,6 @@
 # 🧠 CppEditor – Modern C++ Code Editor
 
-CppEditor is a lightweight, VS Code–style C++ code editor built using Python and PySide6. It offers a modern UI, syntax highlighting, file tree, multi-tab editing, theme switching, compiler support, and persistent workspace.
+CppEditor is a lightweight, VS Code–style C++ code editor built using Python and PySide6. It offers a modern UI, syntax highlighting, file tree, multi-tab editing, compiler support, and persistent workspace.
 
 ![CppEditor Screenshot](1.png) <!-- optional screenshot -->
 ![CppEditor Screenshot](2.png)
