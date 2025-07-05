@@ -12,7 +12,7 @@ CppEditor is a lightweight, VS Code–style C++ code editor built using Python a
 
 - 📄 **Multi-Tab C++ Editor**
 - 📁 **File Tree** – View and manage your files
-- 🎨 **Dark & Light Themes** with live switching
+- 🎨 **Dark Theme**
 - 🔍 **Find & Replace**
 - 🧠 **Syntax Highlighting**
 - 🧾 **Persistent Sessions** – Reopen last opened files and folder
