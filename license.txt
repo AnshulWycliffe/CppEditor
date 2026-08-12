@@ -1,0 +1,66 @@
+CppEditor - Software License Agreement
+Version 2.0
+Copyright © 2025 Anshul Wycliffe
+-----------------------------------------------------
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+
+By installing or using CppEditor ("Software"), you agree to be bound by the terms of this License Agreement.
+
+1. GRANT OF LICENSE
+You are granted a non-exclusive, non-transferable license to install and use this Software on a single computer.
+
+2. RESTRICTIONS
+You may NOT:
+- Modify, decompile, reverse-engineer, or attempt to extract the source code.
+- Rent, lease, resell, or distribute the Software to others.
+- Use the Software for any illegal or unauthorized activity.
+
+3. OWNERSHIP
+CppEditor and all related components are the intellectual property of **Anshul Wycliffe**.  
+This license grants you the right to use the Software but does not transfer ownership.
+
+4. BACKUPS
+You may create one (1) backup copy of the Software solely for archival or recovery purposes.
+
+5. WARRANTY DISCLAIMER
+The Software is provided "AS IS" without any warranties, express or implied.  
+The developer, **Anshul Wycliffe**, is not responsible for any data loss, system damage, or productivity loss resulting from the use of this Software.
+
+6. LIMITATION OF LIABILITY
+In no event shall the developer be liable for any damages arising from the use or inability to use the Software, including but not limited to direct, indirect, incidental, or consequential damages.
+
+7. UPDATES & MODIFICATIONS
+The developer may release updates or patches for this Software.  
+This license does not guarantee future updates.
+
+8. TERMINATION
+This license will automatically terminate if you fail to comply with any of its terms.  
+Upon termination, you must remove all copies of the Software from your system.
+
+-----------------------------------------------------
+THIRD-PARTY COMPONENTS NOTICE (WINLIBS)
+-----------------------------------------------------
+
+This software includes the WinLibs toolchain for C/C++ compilation.
+WinLibs is a third-party distribution that includes GCC, MinGW-w64 and other open-source tools.
+
+WinLibs Copyright:
+© WinLibs.com  
+Each component included in WinLibs retains its own respective open-source license  
+(e.g., GPL, LGPL, BSD, MIT, Apache, etc.).
+
+WinLibs is used as-is.  
+No affiliation or endorsement by WinLibs or its contributors is claimed.
+
+For more information, visit:
+https://winlibs.com/
+
+User must comply with all third-party licenses bundled within WinLibs.
+
+-----------------------------------------------------
+CONTACT
+Developer: **Anshul Wycliffe**
+
+-----------------------------------------------------
+END OF LICENSE AGREEMENT
